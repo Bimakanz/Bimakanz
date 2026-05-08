@@ -28,7 +28,7 @@
 ###
 
 <a href="https://open.spotify.com/user/cw4utmm9fok8bjujngfbpgo5e">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=kfuqct9yrhtlfrfrsplci965u" alt="Spotify recently played" width="45%"/>
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=kfuqct9yrhtlfrfrsplci965u&width=1000&count=5" alt="Spotify recently played"/>
   </a>
 
 ###
