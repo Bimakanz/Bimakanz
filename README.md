@@ -25,11 +25,6 @@
 
 <h2 align="left">Code Assist</h2>
 
-###
-
-<a href="https://open.spotify.com/user/kfuqct9yrhtlfrfrsplci965u">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=kfuqct9yrhtlfrfrsplci965u&width=1000&count=5" alt="Spotify recently played"/>
-  </a>
 
 ###
 <div align="left">
